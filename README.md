@@ -41,15 +41,20 @@ Pengguna	Mencari informasi 	Bisa mendapat informasi lebih cepat	****
 
 ### Analysis: Struktur Data
 1.	Pengguna
--	Login
--	Sambungkan Interner
--	Berikan perintah
--	Perintah dikerjakan
+-	Username
+-	Email
+-	Password
 
 2.	Sistem
--	Menganalisa perintah
--	Mengerjakan perintah
--	
+-	Data 
+
+3. Pertanyaan
+- Data
+
+4. Jawaban
+- Data
+![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/Design%20-%20Struktur%20Data.png?raw=true)
+
 ### Design: Arsitektur Basis Client-Server
 Cloud:
 1.	Database: MySQL
