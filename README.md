@@ -30,8 +30,6 @@ Campaign : Bagaimana membuat aplikasi yang membuat penggunanya memiliki teman ya
 5.	Inspirasi Design :
 
 
-
-
 ### Analysis: User Story
 Sebagai	Saya ingin bisa	Sehingga	Prioritas
 Pengguna	Berbicara 	Bisa memiliki lawan bicara (teman).	*****
@@ -64,3 +62,6 @@ Cloud:
 ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/Design%20-%20Arsitektur%20Basis%20Client%20Server.png?raw=true)
 
 ### Design: User Experience
+1. Logo
+   ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/logo%20sirr.png?raw=true)
+   ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/logo.png?raw=true)
