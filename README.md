@@ -56,5 +56,6 @@ Cloud:
 2.	Aplikasi Web Backned: Phython – Visual Studio Code
 3.	Web Server: Phython – Visual Studio Code
 4.	Aplikasi Android dan Iphone: Phython – Qphyton
+![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/Design%20-%20Arsitektur%20Basis%20Client%20Server.png?raw=true)
 
 ### Design: User Experience
