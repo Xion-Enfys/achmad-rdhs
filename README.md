@@ -118,9 +118,12 @@ flowchart TD
    ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/logo.png?raw=true)
 
 2. Screensplash
-   ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/1.png?raw=true)
-   ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/2.png?raw=true)
+   ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/1.png?raw=true) -> ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/2.png?raw=true)
+
+3. HomePage
    ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/3.png?raw=true)
+
+4. Fitur-Fitur
    ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/4.png?raw=true)
    ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/5.png?raw=true)
    ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/6.png?raw=true)
