@@ -46,11 +46,11 @@ Campaign : Bagaimana membuat aplikasi yang membuat penggunanya memiliki teman ya
 Sebagai |	Saya ingin bisa |	Sehingga |	Prioritas
  |  |  | 
 Pengguna |	Berbicara |	Bisa memiliki lawan bicara (teman)|	⭐⭐⭐⭐⭐
---- | --- | --- | ---
+ |  |  | 
 Pengguna |	Meminta tolong |	Bisa membantu secara virtual |	⭐⭐⭐⭐⭐
---- | --- | --- | ---
+ |  |  | 
 Pengguna |	Ditemani |	Bisa merasa memiliki teman	|⭐⭐⭐⭐⭐
---- | --- | --- | ---
+ |  |  | 
 Pengguna |	Mencari informasi  |	Bisa mendapat informasi lebih cepat	|⭐⭐⭐⭐
 --- | --- | --- | ---
 
