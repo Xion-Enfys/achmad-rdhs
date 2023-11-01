@@ -47,6 +47,7 @@ Pengguna |	Berbicara |	Bisa memiliki lawan bicara (teman)|	⭐⭐⭐⭐⭐
 Pengguna |	Meminta tolong |	Bisa membantu secara virtual |	⭐⭐⭐⭐⭐
 Pengguna |	Ditemani |	Bisa merasa memiliki teman	|⭐⭐⭐⭐⭐
 Pengguna |	Mencari informasi  |	Bisa mendapat informasi lebih cepat	|⭐⭐⭐⭐
+--- | --- | --- | ---
 
 ## 3. Analysis: Struktur Data
 1.	Pengguna
@@ -78,7 +79,6 @@ flowchart TD
 2.	Aplikasi Web Backned: Phython – Visual Studio Code
 3.	Web Server: Phython – Visual Studio Code
 4.	Aplikasi Android dan Iphone: Phython – Qphyton
-![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/Design%20-%20Arsitektur%20Basis%20Client%20Server.png?raw=true)
 
 ### Design: User Experience
 1. Logo
