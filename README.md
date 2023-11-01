@@ -44,13 +44,9 @@ Campaign : Bagaimana membuat aplikasi yang membuat penggunanya memiliki teman ya
 ## 2. Analysis: User Story
 Sebagai |	Saya ingin bisa |	Sehingga |	Prioritas
 Pengguna |	Berbicara |	Bisa memiliki lawan bicara (teman)|	⭐⭐⭐⭐⭐
----|---|---|---
 Pengguna |	Meminta tolong |	Bisa membantu secara virtual |	⭐⭐⭐⭐⭐
----|---|---|---
 Pengguna |	Ditemani |	Bisa merasa memiliki teman	|⭐⭐⭐⭐⭐
----|---|---|---
 Pengguna |	Mencari informasi  |	Bisa mendapat informasi lebih cepat	|⭐⭐⭐⭐
----|---|---|---
 
 ## 3. Analysis: Struktur Data
 1.	Pengguna
@@ -71,11 +67,13 @@ Pengguna |	Mencari informasi  |	Bisa mendapat informasi lebih cepat	|⭐⭐⭐�
 
 ## Design: Arsitektur Basis Client-Server
 Cloud:
+```mermaid
 flowchart TD
     A[Database: MySQL]
     A <--> B[Aplikasi Web Backned: Phyton - Visual Studio Code ]
    B <--> C[Web Server: Phyton - Visual Studion Code]
    C <--> D[Aplikasi Android & Iphone: Phyton - Kivy ]
+```
 1.	Database: MySQL
 2.	Aplikasi Web Backned: Phython – Visual Studio Code
 3.	Web Server: Phython – Visual Studio Code
