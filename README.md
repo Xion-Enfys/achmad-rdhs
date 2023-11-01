@@ -4,7 +4,7 @@ Membuat Aplikasi Sejenis Google Asisstent Dengan Menggunakan Android Studio, Vis
 ## 1.1 Latar Belakang
 Aplikasi ini dibuat untuk mempermudah berbagai pekerjaan virtual, membantu menyiapkan kegiatan dan menemani secara virtual. semakin berkembangnya zaman membuat banyak pekerjaan dilakukan secara virtual. maka dari itu aplikasi ini dibuat untuk bisa mengimbangi zaman dan diharapkan dapat membantu dalam mengelola keseharian serta pekerjaan secara virtual layaknya Asisstent Personal.
 
-# Proses pembangunan teknologi informai 
+### Proses pembangunan teknologi informai 
 1.	Analysis
 2.	Design
 3.	Development
@@ -97,8 +97,7 @@ erDiagram
 4. Jawaban
 - Data
 
-## Design: Arsitektur Basis Client-Server
-Cloud:
+## 4. Design: Arsitektur Basis Client-Server
 ```mermaid
 flowchart TD
     A[Database: MySQL]
@@ -115,3 +114,6 @@ flowchart TD
 1. Logo
    ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/logo%20sirr.png?raw=true)
    ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/logo.png?raw=true)
+
+2. Screensplash
+    ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/logo.png?raw=true)
