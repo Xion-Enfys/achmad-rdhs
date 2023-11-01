@@ -14,7 +14,7 @@ Aplikasi ini dibuat untuk mempermudah berbagai pekerjaan virtual, membantu menyi
 ## Ananlysis: Branding
 Merk : Sirr.
 Tagline : Menemani dan Membantu anda dalam hal tertentu.
-Campaign : Bagaimana membuat aplikasi yang membuat penggunanya memiliki teman yang bisa menemani dan membantu beberapa pekerjaan secara vitual..
+Campaign : Bagaimana membuat aplikasi yang membuat penggunanya memiliki teman yang bisa menemani dan membantu beberapa pekerjaan secara vitual.
 
 ## Targer User:
 1.	Usia 10+ ( untuk 17 kebawah perlu di damping orang tua ).
