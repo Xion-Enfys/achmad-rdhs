@@ -4,13 +4,7 @@ Membuat Aplikasi Sejenis Google Asisstent Dengan Menggunakan Android Studio, Vis
 ## 1.1 Latar Belakang
 Aplikasi ini dibuat untuk mempermudah berbagai pekerjaan virtual, membantu menyiapkan kegiatan dan menemani secara virtual. semakin berkembangnya zaman membuat banyak pekerjaan dilakukan secara virtual. maka dari itu aplikasi ini dibuat untuk bisa mengimbangi zaman dan diharapkan dapat membantu dalam mengelola keseharian serta pekerjaan secara virtual layaknya Asisstent Personal.
 
-### Proses pembangunan teknologi informai 
-1.	Analysis
-2.	Design
-3.	Development
-4.	Testing
-5.	Deployment
-6.	Maintenance
+
 
 ## 1.2 Deskripsi Teknologi Informasi
 Aplikasi ini bernama "Sir"". Aplikasi ini dibuat untuk membantu dan menemani secara virtual. Aplikasi ini juga dibuat untuk bisa mencari informasi layaknya AI. Terdapat fitur sound Recognition dalam aplikasi ini layaknya memiliki Asisstent Personal.
@@ -20,14 +14,22 @@ Merk : Sirr
 Tagline : Menemani dan Membantu anda dalam hal tertentu
 Campaign : Bagaimana membuat aplikasi yang membuat penggunanya memiliki teman yang bisa menemani dan membantu beberapa pekerjaan secara vitual
 
-# Targer User:
+### Proses pembangunan teknologi informai 
+1.	Analysis
+2.	Design
+3.	Development
+4.	Testing
+5.	Deployment
+6.	Maintenance
+
+### Targer User:
 1.	Usia 10+ ( untuk 17 kebawah perlu di damping orang tua ).
 2.	Seorang yang sulit bersosialisasi (Introvert).
 3.	Sesorang yang memiliki imajinasi yang tinggi.
 4.	Seseorang yang ingin memiliki teman yang dapat membantu secara virtual.
 5.	Seseorang yang ingin memiliki asisstent pribadi secara virtual.
 
-# User experience 
+### User experience 
 1.	Mudah
 2.	Sederhana
 3.	Minimalis
@@ -97,7 +99,7 @@ erDiagram
 4. Jawaban
 - Data
 
-## 4. Design: Arsitektur Basis Client-Server
+## 4. Design: Arsitektur Basis Client-Server (Arsitektur System)
 ```mermaid
 flowchart TD
     A[Database: MySQL]
@@ -116,4 +118,10 @@ flowchart TD
    ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/logo.png?raw=true)
 
 2. Screensplash
-    ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/logo.png?raw=true)
+   ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/1.png?raw=true)
+   ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/2.png?raw=true)
+   ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/3.png?raw=true)
+   ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/4.png?raw=true)
+   ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/5.png?raw=true)
+   ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/6.png?raw=true)
+   ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/7.png?raw=true)
