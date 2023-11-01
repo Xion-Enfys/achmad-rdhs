@@ -44,17 +44,45 @@ Campaign : Bagaimana membuat aplikasi yang membuat penggunanya memiliki teman ya
 ## 2. Analysis: User Story
 
 Sebagai |	Saya ingin bisa |	Sehingga |	Prioritas
- |  |  | 
+--- | --- | --- | ---
 Pengguna |	Berbicara |	Bisa memiliki lawan bicara (teman)|	⭐⭐⭐⭐⭐
- |  |  | 
+--- | --- | --- | ---
 Pengguna |	Meminta tolong |	Bisa membantu secara virtual |	⭐⭐⭐⭐⭐
- |  |  | 
+--- | --- | --- | ---
 Pengguna |	Ditemani |	Bisa merasa memiliki teman	|⭐⭐⭐⭐⭐
 --- | --- | --- | ---
 Pengguna |	Mencari informasi  |	Bisa mendapat informasi lebih cepat	|⭐⭐⭐⭐
 --- | --- | --- | ---
 
 ## 3. Analysis: Struktur Data
+```mermaid
+erDiagram
+  Pengguna {
+    string username
+    string email
+    string password
+  }
+  Pengguna ||--o{ System : memberi
+  
+  System {
+    string data
+    int data
+  }
+  Pengguna ||--o{ Pertanyaan : memberi 
+  Pertanyaan ||--o{ System : memberi
+
+  Pertanyaan{
+    string data
+    int data
+  } 
+  System ||--o{ Jawaban : memberi 
+  Jawaban ||--o{ Pengguna : diterima
+
+  Jawaban{
+    string data
+    int data
+  }
+```
 1.	Pengguna
 -	Username
 -	Email
@@ -69,8 +97,6 @@ Pengguna |	Mencari informasi  |	Bisa mendapat informasi lebih cepat	|⭐⭐⭐�
 4. Jawaban
 - Data
 
-![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/Design%20-%20Struktur%20Data.png?raw=true)
-
 ## Design: Arsitektur Basis Client-Server
 Cloud:
 ```mermaid
@@ -83,7 +109,7 @@ flowchart TD
 1.	Database: MySQL
 2.	Aplikasi Web Backned: Phython – Visual Studio Code
 3.	Web Server: Phython – Visual Studio Code
-4.	Aplikasi Android dan Iphone: Phython – Qphyton
+4.	Aplikasi Android dan Iphone: Phython – Kivy
 
 ### Design: User Experience
 1. Logo
