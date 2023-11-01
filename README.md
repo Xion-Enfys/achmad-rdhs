@@ -28,6 +28,8 @@ Campaign : Bagaimana membuat aplikasi yang membuat penggunanya memiliki teman ya
 3.	Minimalis
 4.	Elegan
 5.	Inspirasi Design :
+
+
 ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/design%20-%20inspiration%201.png?raw=true)
 ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/design%20-%20inspiration%202.png?raw=true)
 ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/design%20-%20inspiration%203.png?raw=true)
