@@ -1,6 +1,6 @@
 # Aplikasi Asisstent Personal [ Sirr ]
 Membuat Aplikasi Sejenis Google Asisstent Dengan Menggunakan Android Studio, Visual Studio Code, MySQL.
-aplikasi ini dibuat bertujuan untuk mempermudah berbagai pekerjaan virtual, membantu menyiapkan kegiatan dan menemani secara virtual. semakin berkembangnya zaman membuat banyak pekerjaan dilakukan secara virtual. maka dari itu aplikasi ini dibuat untuk bisa mengimbangi zaman dan diharapkan dapat membantu dalam mengelola keseharian dan membantu pekerjaan secara virtual layaknya Asisstent Personal.
+Aplikasi ini dibuat bertujuan untuk mempermudah berbagai pekerjaan virtual, membantu menyiapkan kegiatan dan menemani secara virtual. semakin berkembangnya zaman membuat banyak pekerjaan dilakukan secara virtual. maka dari itu aplikasi ini dibuat untuk bisa mengimbangi zaman dan diharapkan dapat membantu dalam mengelola keseharian dan membantu pekerjaan secara virtual layaknya Asisstent Personal.
 
 ## A.	Proses pembangunan teknologi informai 
 1.	Analysis
