@@ -57,6 +57,7 @@ Pengguna	Mencari informasi 	Bisa mendapat informasi lebih cepat	****
 
 4. Jawaban
 - Data
+
 ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/Design%20-%20Struktur%20Data.png?raw=true)
 
 ### Design: Arsitektur Basis Client-Server
