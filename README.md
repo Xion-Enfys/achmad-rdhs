@@ -42,6 +42,7 @@ Campaign : Bagaimana membuat aplikasi yang membuat penggunanya memiliki teman ya
 ![alt text](https://github.com/Xion-Enfys/achmad-rdhs/blob/main/design%20-%20inspiration%205.png?raw=true)
 
 ## 2. Analysis: User Story
+--- | --- | --- | ---
 Sebagai |	Saya ingin bisa |	Sehingga |	Prioritas
 Pengguna |	Berbicara |	Bisa memiliki lawan bicara (teman)|	⭐⭐⭐⭐⭐
 Pengguna |	Meminta tolong |	Bisa membantu secara virtual |	⭐⭐⭐⭐⭐
